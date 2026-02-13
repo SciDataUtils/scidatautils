@@ -1,2 +1,5 @@
-# scidatautils
-Lightweight web utilities for validating formats, computing statistics, and transforming scientific and technical data, with a focus on deterministic and format-aware processing.
+# SciDataUtils
+
+SciDataUtils provides lightweight web utilities for validating formats, computing statistics, and transforming scientific and technical data.
+
+🌐 https://www.scidatautils.org/
